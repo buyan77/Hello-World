@@ -1,9 +1,9 @@
 <?php
-	echo "Hello World!!!!";
+	echo "Hello World!!";
 	echo "Hello github";
 	echo "git move"
 
-	echo "add-xxx"
+	echo "add-x"
 
 	echo "bbb"
 
